@@ -13,7 +13,7 @@ image:"whiteT shirt.jpg",},
         productName:"Biege Short Skirt",
         category:"Bottomwear",
         price:"49",
-        image: "skirt.jpg",},
+        image: "skirt.JPG",},
         {
             productName:"Sporty SmartWatch",
             category:"watch",
@@ -34,18 +34,18 @@ image:"whiteT shirt.jpg",},
                         productName:"Stylish Pink Trouser",
                         category:"Bottomwear",
                         price:"30",
-                        image:"pink trouser.jpg",},
+                        image:"pink trouser.JPG",},
 
                         {
                             productName:"Brown Men's Jacket",
                             category:"Jacket",
                             price:"30",
-                            image:"brown jacket.jpg",},
+                            image:"brown jacket.JPG",},
                             {
                                 productName:"Comfy Gray Pants",
                                 category:"Bottomwear",
                                 price:"39",
-                                image:"comfy pant.jpg",},
+                                image:"comfy pant.JPG",},
                                 
                                                         
 ],
