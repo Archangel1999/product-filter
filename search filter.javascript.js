@@ -29,7 +29,7 @@ image:"whiteT shirt.jpg",},
                     productName:"Black Leather",
                     category:"Jacket",
                     price:"124",
-                    image:"jacket.jpg",},
+                    image:"jacket.JPG",},
                     {
                         productName:"Stylish Pink Trouser",
                         category:"Bottomwear",
